@@ -7,7 +7,6 @@ public class UserRepository {
 	public List<User> getAllUsers() {
 		return userList;
 	}
-
 	public void addUsersToRepository() {
 		User user1 = new User("admin", "admin");
 		User user2 = new User("ac", "ac");
