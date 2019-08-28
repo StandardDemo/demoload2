@@ -27,5 +27,4 @@ public class NewClassTest {
 	public void test() {
 		fail("Not yet implemented");
 	}
-
 }
