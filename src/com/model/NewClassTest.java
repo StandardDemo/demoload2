@@ -9,9 +9,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class NewClassTest {
-
-	
-	
 	@BeforeClass
 	public static void setUpBeforeClass()  {
 	}
