@@ -8,7 +8,7 @@ public class User {
 		this.userId = userId;
 		this.password = password;
 	}
-	
+	//
 	public String getUserId() {
 		return userId;
 	}
