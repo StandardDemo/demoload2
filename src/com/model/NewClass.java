@@ -7,6 +7,6 @@ public class NewClass {
 //
 	}
 
-}//chanfugkjk,kluhkigjgjbmhhj
+}//chanfugkjk,kluhkigjjjgjbmhhj
 //fgyhughj
 ///y
